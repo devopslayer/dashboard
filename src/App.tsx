@@ -13,17 +13,15 @@ function App() {
       <Header />
 
       {/* Main Page Section */}
-      <BrowserRouter>
+      {/* <BrowserRouter>
         <Routes>
           <Route path="/" element={<Hero />}>
-            <Route index element={<Hero />} />
+            <Route path="home" element={<Hero />} />
             <Route path="orders" element={<Metric />} />
             <Route path="integration" element={<Functionality />} />
-            {/* <Route path="contact" element={<Contact />} /> */}
-            {/* <Route path="*" element={<NoPage />} /> */}
           </Route>
         </Routes>
-      </BrowserRouter>
+      </BrowserRouter> */}
 
       <Hero />
       <Metric />

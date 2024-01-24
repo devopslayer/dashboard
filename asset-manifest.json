@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/dashboard/static/css/main.8e4f4f0c.css",
-    "main.js": "/dashboard/static/js/main.42ebff08.js",
+    "main.js": "/dashboard/static/js/main.8620e169.js",
     "static/js/787.1cd31a9e.chunk.js": "/dashboard/static/js/787.1cd31a9e.chunk.js",
     "static/media/Connection-Logo.png": "/dashboard/static/media/Connection-Logo.ccbc7b8bbea07d97630d.png",
     "static/media/Star-Logo.png": "/dashboard/static/media/Star-Logo.d6fec210cb8944b91f75.png",
@@ -9,11 +9,11 @@
     "static/media/Paypal-Logo.png": "/dashboard/static/media/Paypal-Logo.c5e23686fd693aa8bbf0.png",
     "index.html": "/dashboard/index.html",
     "main.8e4f4f0c.css.map": "/dashboard/static/css/main.8e4f4f0c.css.map",
-    "main.42ebff08.js.map": "/dashboard/static/js/main.42ebff08.js.map",
+    "main.8620e169.js.map": "/dashboard/static/js/main.8620e169.js.map",
     "787.1cd31a9e.chunk.js.map": "/dashboard/static/js/787.1cd31a9e.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.8e4f4f0c.css",
-    "static/js/main.42ebff08.js"
+    "static/js/main.8620e169.js"
   ]
 }

@@ -16,7 +16,7 @@ function App() {
       <BrowserRouter>
         <Routes>
           <Route path="/" element={<Hero />}>
-            {/* <Route index element={<Hero />} /> */}
+            <Route index element={<Hero />} />
             <Route path="orders" element={<Metric />} />
             <Route path="integration" element={<Functionality />} />
             {/* <Route path="contact" element={<Contact />} /> */}

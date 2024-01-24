@@ -25,7 +25,7 @@ function App() {
         </Routes>
       </BrowserRouter>
 
-      {/* <Hero /> */}
+      <Hero />
       <Metric />
       <Functionality />
 
